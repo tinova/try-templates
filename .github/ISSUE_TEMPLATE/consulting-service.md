@@ -1,7 +1,6 @@
 ---
 name: Consulting Service
-about: Best practices in the successful evaluation, design, and operation of OpenNebula-based
-  Cloud architectures, and in the optimal configuration and customization of OpenNebula
+about: Best practices in the successful evaluation, design, and operation of OpenNebula
 title: ''
 labels: ''
 assignees: ''
