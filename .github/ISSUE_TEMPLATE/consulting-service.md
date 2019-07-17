@@ -2,7 +2,7 @@
 name: Consulting Service
 about: Best practices in the successful evaluation, design, and operation of OpenNebula
 title: ''
-labels: ''
+labels: Consulting
 assignees: ''
 
 ---
