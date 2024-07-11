@@ -1,3 +1,0 @@
-- name: Snooze issue       
-  uses: multilocale/snooze-issue-action@v1.0.0
-
