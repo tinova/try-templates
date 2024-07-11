@@ -11,7 +11,7 @@ on:
       #        │  │ │ │ │
       #        │  │ │ │ │
       #        *  * * * *
-      - cron: '0 */24 * * *' # checks once every 24 hours
+      - cron: '0-20 * * * *' # checks once every 24 hours
 
 jobs:
   unsnooze_issue:
