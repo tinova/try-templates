@@ -9,7 +9,7 @@ on:
     #        │  │ │ │ ┌───────────── day of the week (0 - 6 or SUN-SAT)
     #        │  │ │ │ │
     #        *  * * * *
-    - cron: '0-59 * * * *' # checks once every 24 hours at midnight
+    - cron: '*/5 * * * *' # checks once every 24 hours at midnight
 
 jobs:
   unsnooze_issue:
