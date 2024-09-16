@@ -33,5 +33,5 @@ Procedure and emails described [here](https://docs.google.com/document/d/1M0h1ob
 * [ ] Send daily report with actions done to customer
 * [ ] Prepare recommendations report
 * [ ] Get approval from Lead Consultant for recommendations report
-* [ ] Send report to the client
+* [ ] Send report to the customer
 * [ ] Arrange presentation meeting
